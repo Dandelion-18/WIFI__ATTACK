@@ -33,7 +33,7 @@ pip install -r requirements.txt
 ### Linux or Termux
 Go to the folder where you installed the project, and then enter the commands below
 ```
-cd wifi_Attack
+cd Wireless_attack
 python3 main.py
 ```
 ###Windows
