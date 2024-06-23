@@ -6,17 +6,19 @@ Program for hack!
 > The program requires Python, as well as several libraries specified in the requirements.txt file
 # 📥 Installation
 ### Linux or Termux
+```
 apt update && apt upgrade -y
 
 apt install python
 
 apt install git
 
-git clone https://github.com/Dandelion-18/WIFI_ATTACK/
+git clone https://github.com/Dandelion-18/WIFI_ATTACK
 
 cd wifi_Attack
 
 pip install -r requirements.txt
+```
 
 ###Windows
 Install the release on the project page.
